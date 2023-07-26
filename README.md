@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm nac-39</h1>
 <h3 align="center">A Student of Informatics</h3>
 
-- 🔭 I’m currently working on [nu-shinkan.net](https://nu-shinkan.net)
+- 🔭 I’m currently working on [https://github.com/nac-39/compilerbook](https://github.com/nac-39/compilerbook)
 
-- 🌱 I’m currently learning **Nuxt3, TCP/IP, Deep Learning, Rust**
+- 🌱 I’m currently learning **Compiler, C, Nuxt3, Deep Learning, Rust**
 
-- 👨‍💻 All of my projects are available at [https://nac-39.com/about](https://nac-39.com/about)
+- 👨‍💻 All of my projects are available at [https://nac-39.com/works](https://nac-39.com/works)
 
 - 📝 I regularly write articles on [https://nac-39.com](https://nac-39.com)
 
-- 📫 How to reach me **Twitter: @nalog3939393939**
+- 📫 How to reach me **Twitter:** [@nalog3939393939](https://twitter.com/nalog3939393939)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
