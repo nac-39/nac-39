@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm nac-39</h1>
 <h3 align="center">A Student of Informatics</h3>
 
-- 🔭 I’m currently working on [https://github.com/nac-39/compilerbook](https://github.com/nac-39/compilerbook)
+- 🔭 I’m currently working on reading [Deep Learning](https://www.deeplearningbook.org/)
 
-- 🌱 I’m currently learning **Compiler, C, Nuxt3, Deep Learning, Rust**
+- 🌱 I’m currently learning **Deep Learning, Next, Golang**
 
 - 👨‍💻 All of my projects are available at [https://nac-39.com/works](https://nac-39.com/works)
 
