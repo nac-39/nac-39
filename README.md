@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nac-39</h1>
 <h3 align="center">A Student of Informatics</h3>
 
-- 🔭 I’m currently working on reading [Deep Learning](https://www.deeplearningbook.org/)
+- 🔭 I’m currently working on studying LLM.
 
 - 🌱 I’m currently learning **Deep Learning, Next, Golang**
 
